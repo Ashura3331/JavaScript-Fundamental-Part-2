@@ -13,7 +13,6 @@ logger();
 
 
  function fruitProcessor(apples, oranges) {// function taking with arguments and then return the value to function .
-    console.log(apples, oranges);
      const juice = `Juice with ${apples} apples and ${oranges} oranges.`;
 
      return juice;
@@ -22,3 +21,6 @@ logger();
 
  const appleJuice = fruitProcessor(3, 5);
  console.log(appleJuice);
+
+ const appleOrangeJuice = fruitProcessor(2, 4);
+ console.log(appleOrangeJuice);
