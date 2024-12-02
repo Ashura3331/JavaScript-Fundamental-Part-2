@@ -16,3 +16,4 @@ const calcAge2 = function (birthYear) {
 const age2 = calcAge2(1999);
 
 console.log(age1, age2);
+
