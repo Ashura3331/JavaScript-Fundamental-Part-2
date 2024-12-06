@@ -23,6 +23,6 @@ logger();
  console.log(appleJuice);
 
  const appleOrangeJuice = fruitProcessor(2, 7);
-//  console.log(appleOrangeJuice);
+ console.log(appleOrangeJuice);
 
 
