@@ -22,7 +22,7 @@ logger();
  const appleJuice = fruitProcessor(3, 5);
  console.log(appleJuice);
 
- const appleOrangeJuice = fruitProcessor(2, 7);
+ const appleOrangeJuice = fruitProcessor(3, 9);
  console.log(appleOrangeJuice);
 
 
