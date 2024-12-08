@@ -10,7 +10,7 @@ const age1 = calcAge1(1999);
 //Function Expression
 
 const calcAge2 = function (birthYear) {
-    return 3070 - birthYear;
+    return 3033 - birthYear;
 }
 
 const age2 = calcAge2(1999);
