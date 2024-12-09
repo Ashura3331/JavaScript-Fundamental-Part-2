@@ -30,3 +30,9 @@ const yearsUntilRetirement = (birthYear, firstName) => {
 
 console.log(yearsUntilRetirement(1999, 'Ash'));
 console.log(yearsUntilRetirement(1990, 'Ash'));
+
+const fruitProcessor = (apples, oranges) => {
+    const juice = `Juice with ${apples} apples and ${oranges} oranges.`;
+    return juice;
+}
+console.log(fruitProcessor(3, 9));
