@@ -36,3 +36,6 @@ const fruitProcessor = (apples, oranges) => {
     return juice;
 }
 console.log(fruitProcessor(3, 9));
+
+
+
