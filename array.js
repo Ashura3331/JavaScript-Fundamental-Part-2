@@ -30,8 +30,8 @@ const calcAge = function(birthYear) {
 
 const years = [1990, 1967, 2002, 2018];
 
-// const age1 = calcAge(years[0]);
-// const age2 = calcAge(years[1]);
+const age1 = calcAge(years[0]);
+const age2 = calcAge(years[1]);
 const age3 = calcAge(years[years.length - 1]);
 console.log(age1, age2, age3);
 
